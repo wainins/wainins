@@ -3,9 +3,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wainins-wmustafa">LinkedIn</a>
   ·
-  <a href="mailto:wainins1203@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wainins1203@gmail.com">Email</a>
 </p>
-
 ---
 
 ### 🧬 A little about me
