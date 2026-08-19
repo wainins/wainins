@@ -10,7 +10,7 @@
 
 ### 👋 A little about me
 
-- 🎓 I'm currently doing an **MSc in Data Science & Analytics at UKM**
+- 🎓 I'm currently doing an **MSc in Data Science & Analytics** at **National University of Malaysia (UKM)**
 - 🧬 I studied **Biology** for my Bachelor's
 - 📊 I got interested in data while working on my research and eventually decided to pursue Data Science
 - 💻 Currently learning and working with **Python, R, Machine Learning and Big Data**
