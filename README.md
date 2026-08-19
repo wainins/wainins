@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wan Ainin Sofiya</h1>
-
-<h3 align="center">MSc Data Science & Analytics Student | Aspiring Data Scientist</h3>
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/994b7ce8-9c85-49c9-84e9-be6979c7d7e1" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wainins-wmustafa">LinkedIn</a>
