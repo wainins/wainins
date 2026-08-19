@@ -8,7 +8,7 @@
 
 ---
 
-### 🧬 A little about me
+### 👋 A little about me
 
 - 🎓 I'm currently doing an **MSc in Data Science & Analytics at UKM**
 - 🧬 I studied **Biology** for my Bachelor's
