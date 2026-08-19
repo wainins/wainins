@@ -18,37 +18,32 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Language & Tools I'm Studying
 
-#### Programming & Data Analysis
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-#### Machine Learning
-<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Random%20Forest-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SMOTE-6A1B9A?style=for-the-badge"/>
-</p>
-
-#### Big Data & Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classification-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clustering-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hadoop%20HDFS-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
-</p>
-
-#### Data Visualization
-<p>
+  <img src="https://img.shields.io/badge/Apache%20Pig-F9AB00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/ggplot2-1F77B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flexdashboard-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R%20Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Zeppelin-4A154B?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ---
@@ -73,5 +68,5 @@ Universiti Kebangsaan Malaysia · 2020 – 2024
 ---
 
 <p align="center">
-  <i>Always learning, experimenting, and building with data.</i>
+  <i>Always learning, experimenting and building with data.</i>
 </p>
