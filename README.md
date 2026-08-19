@@ -5,17 +5,16 @@
   ·
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wainins1203@gmail.com">Email</a>
 </p>
+
 ---
 
 ### 🧬 A little about me
 
-I started my academic journey in Biology, where I was introduced to working with scientific data. 
-Over time, I became more interested in the data itself — exploring patterns, analysing results, 
-and finding ways to turn data into meaningful insights.
-
-That interest led me to pursue an **MSc in Data Science & Analytics at Universiti Kebangsaan Malaysia (UKM)**.
-
-**🧬 Biology → 📊 Data → 🤖 Data Science**
+- 🎓 I'm currently doing an **MSc in Data Science & Analytics at UKM**
+- 🧬 I studied **Biology** for my Bachelor's
+- 📊 I got interested in data while working on my research and eventually decided to pursue Data Science
+- 💻 Currently learning and working with **Python, R, Machine Learning and Big Data**
+- 🎯 Hopefully becoming a **Data Scientist** along the way :)
 
 ---
 
@@ -61,16 +60,6 @@ Universiti Kebangsaan Malaysia · 2025 – Present
 
 **Bachelor of Science (Biology) with Honours**  
 Universiti Kebangsaan Malaysia · 2020 – 2024
-
----
-
-### 🔬 Research
-
-**Gut Microbiome & DNA Metabarcoding**
-
-Undergraduate research involving Next Generation Sequencing (NGS) and microbiome data.
-
-📄 Published in *Journal of Medical Primatology* (2025)
 
 ---
 
